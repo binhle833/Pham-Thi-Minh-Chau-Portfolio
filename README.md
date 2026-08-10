@@ -2,7 +2,7 @@
 
 > **Senior AI Content Strategist · AI Automation Specialist · Digital Product & KDP Director**
 > 
-> 📧 Email: binhle833@gmail.com | 📍 Location: Vietnam (Remote, UTC+7) | 📅 DOB: Feb 23, 1982
+> 📧 Email: minhchau2382@gmail.com | 📍 Location: Vietnam (Remote, UTC+7) | 📅 DOB: Feb 23, 1982
 > 📄 [View Resume (ATS Version)](./Resume_Chau_Pham_ATS.md)
 
 ---
