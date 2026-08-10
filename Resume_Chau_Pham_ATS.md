@@ -1,7 +1,7 @@
 # Chau Pham (Pham Thi Minh Chau)
 **Senior AI Content Strategist · AI Automation Specialist · Digital Product & KDP Director**
 
-📧 binhle833@gmail.com | 📍 Location: Vietnam (Remote, UTC+7) | 📅 DOB: Feb 23, 1982
+📧 minhchau2382@gmail.com | 📍 Location: Vietnam (Remote, UTC+7) | 📅 DOB: Feb 23, 1982
 🌐 [GitHub Portfolio](https://github.com/binhle833/Antigraphity-Projects)
 
 ---
