@@ -1,0 +1,13 @@
+# Private client manuscripts & family photos (never publish)
+La'Xae.docx
+LaXae_*.pdf
+
+# Raw unedited video recordings & local Vietnamese job CVs
+video/
+Chau-Pham-Amazon-Operations-Intro-Edited.mp4
+CV-Pham-Thi-Minh-Chau-DIGI-TEXX-Nhap-Lieu.pdf
+
+# OS & temporary files
+.DS_Store
+Thumbs.db
+~$*

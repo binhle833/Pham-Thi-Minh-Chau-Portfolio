@@ -15,6 +15,17 @@ My work bridges human consumer psychology with cutting-edge AI technologies (Ant
 
 ---
 
+## 🖼️ VISUAL PORTFOLIO & PRINT-READY PDF SAMPLES
+
+| Showcase Board | Live Print-Ready PDF & Asset Samples |
+|---|---|
+| ![Mystery Mosaic](./Upwork_Portfolio_Ready/01_Mystery_Mosaic_Color_By_Number.png) | **Mystery Mosaic Color by Number (Amazon KDP)**<br>• [Complete 12-Page Book Sample (PDF)](./Mystery%20Mosaic/Chau_Pham_Mystery_Mosaic_Complete_Book_12Pages.pdf)<br>• [Aurora Wolf Numbered Grid (PDF)](./Mystery%20Mosaic/Aurora_Wolf_Pixel_Art_Numbered.pdf)<br>• [Raven Castle Numbered Grid (PDF)](./Mystery%20Mosaic/Raven_Castle_Pixel_Art_Numbered.pdf) |
+| ![Senior Large Print](./Upwork_Portfolio_Ready/02_Large_Print_Senior_Activity_Word_Search.png) | **Large Print Senior Activity & Word Search (8.5"×11")**<br>• [8-Page Print-Ready Excerpt — Memory Care & Word Search (PDF)](./Chau_Pham_Senior_Large_Print_Activity_Sample_8Pages.pdf) |
+| ![KDP Formatting & Children's Books](./Upwork_Portfolio_Ready/03_KDP_Coloring_and_Nonfiction_Book_Formatting.png) | **Children's Picture Books, Nonfiction & KDP Print Architecture**<br>• [Finley the Sea Turtle — 2-Board Art Director Studio Pitch Deck (PDF)](./Finley_Sea_Turtle_Concept_and_Page_Layout_Sample.pdf)<br>• [The Mind Codex — 12-Page Editorial Interior Excerpt (PDF)](./Sample1_The_Mind_Codex_Editorial_Excerpt_12p.pdf)<br>• [RACES Grades 3–5 Classroom Worksheet Pack (PDF)](./Races%20grade%203-5/RACES_Grades3-5_Sample_Canva.pdf) |
+| ![Short-Form Video & Data Ops](./Upwork_Portfolio_Ready/04_Short_Form_Video_Scripts_and_Content_Systems.png) | **Short-Form Video Systems, Bilingual Localization & Operations**<br>• [EN–VI Bilingual Survey, HTML & Excel QA Sample (PDF)](./Chau_Pham_EN_VI_Survey_HTML_Excel_Sample.pdf)<br>• [Amazon Operations Video Intro (MP4)](./Chau-Pham-Amazon-Operations-Intro-Edited-1.12x.mp4)<br>• [Upwork-Safe Resume (PDF)](./Chau_Pham_Upwork_Resume_UpworkSafe.pdf) · [Amazon Ops CV (PDF)](./Chau_Pham_Amazon_Ops_CV.pdf) |
+
+---
+
 ## 🚀 FEATURED CASE STUDIES & DEMOS
 
 ```
@@ -101,8 +112,8 @@ My work bridges human consumer psychology with cutting-edge AI technologies (Ant
 
 ## 📄 RESUME & CONTACT
 
-*   **Download Resume:** [Resume_Chau_Pham_ATS.md](./Resume_Chau_Pham_ATS.md) / [Resume_Chau_Pham_ATS.docx](./Resume_Chau_Pham_ATS.docx)
-*   **Email:** `binhle833@gmail.com`
+*   **Download Resume:** [Resume_Chau_Pham_ATS.md](./Resume_Chau_Pham_ATS.md) / [Resume_Chau_Pham_ATS.docx](./Resume_Chau_Pham_ATS.docx) / [Upwork-Safe PDF](./Chau_Pham_Upwork_Resume_UpworkSafe.pdf)
+*   **Email:** `minhchau2382@gmail.com`
 *   **Location:** Vietnam (Remote, UTC+7)
 
 ---

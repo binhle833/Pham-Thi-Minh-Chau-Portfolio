@@ -1,24 +1,23 @@
 # Chau Pham (Pham Thi Minh Chau)
-**Senior AI Content Strategist · AI Automation Specialist · Digital Product & KDP Director**
+**AI Workflow & Automation Specialist · Digital Publishing & KDP Production Director · Data & Operations Specialist**
 
 📧 minhchau2382@gmail.com | 📍 Location: Vietnam (Remote, UTC+7) | 📅 DOB: Feb 23, 1982
-🌐 [GitHub Portfolio](https://github.com/binhle833/Antigraphity-Projects)
+🌐 [Public Portfolio](https://github.com/binhle833/Pham-Thi-Minh-Chau-Portfolio)
 
 ---
 
 ## 🌟 PROFESSIONAL SUMMARY
-Senior **AI Content Strategist and Automation Specialist** with extensive professional expertise in digital content operations, AI-driven workflow architecture, viral short-form video scripting, and Amazon KDP digital publishing pipelines. Expert in leveraging advanced LLM frameworks (Anthropic Skills, SID Framework, Agentic Superpowers) to engineer robust prompt systems, compliance-focused copywriting, and scalable multi-channel content engines for global markets (US, Europe, S.E.A).
+Results-driven **AI Workflow Automation Specialist & Digital Publishing Director** combining **15+ years of precision financial/data operations (2008–2023)** with modern **AI-first production systems**. Proven track record building end-to-end automated publishing pipelines (20+ Amazon KDP print-ready books & multi-volume ebooks), Generative Engine Optimization (GEO/SEO) content engines, viral short-form video/carousel systems, and product landing pages. Expert in Anthropic Claude Agent Skills, Python automation, Excel/Google Sheets, and no-code AI workflows.
 
 ---
 
 ## 🛠️ CORE COMPETENCIES & TECHNICAL SKILLS
 
-*   **AI Prompt & Workflow Engineering:** Master Instruction Design, System Prompts, Custom AI Skill Architecture (Anthropic Skill Standard, Progressive Disclosure), Agentic Pipelines.
-*   **Viral Video Marketing & Copywriting:** C.A.S.H Framework (Change-Avoid-Status-Hope), Hook Engineering, TikTok/Reels/Shorts Scriptwriting, Visual B-Roll Directing, Multi-Language Adaptation.
-*   **Digital Publishing & Amazon KDP:** Niche Market Research, Recipe/Content Development, Prompt Factory for Cover & Interior Visuals, Amazon SEO (Listing & 7 Backend Keywords), A+ Content (6-Module Architecture).
-*   **AI Media Generation & Directing:** VEO-3 Prompt Structuring (Google Flow), Midjourney/DALL-E Frame Directing, 3D Anatomical & Product Visual Prompts.
-*   **Tools & Platforms:** Antigravity AI, Claude (Anthropic), OpenAI GPTs, Python (`openpyxl`, `python-docx` automation), Git/GitHub Versioning, PowerShell CLI.
-*   **Ad Compliance & Policy:** Strict Ad Policy Compliance for Wellness, Dietary Supplements, and Health Tech (TikTok Shop, Meta Ads).
+*   **AI Workflow & Automation:** Anthropic Agent Skills (`SKILL.md`, Progressive Disclosure), System Prompt Stacks, Custom GPTs, Python Automation (`openpyxl`, `python-docx`, HTML/CSS-to-PDF pipelines), Git/GitHub.
+*   **Digital Publishing & Print-Ready Engineering:** End-to-End Amazon KDP Production (Cookbooks, Murdoku/Logic Grids, Large-Print Puzzles, Activity & Coloring Books), Automated Bleed/Margin/Spine QA, 6-Module A+ Content, Amazon SEO (7 Backend Keyword Boxes).
+*   **GEO/SEO & Viral Content Systems:** Generative Engine Optimization (AI Search visibility for ChatGPT/Perplexity), C.A.S.H Short-Form Video Framework (TikTok/Reels/Shorts), Tactile Healing & IG Carousel Systems, Ad Policy Compliance.
+*   **Web & Brand Productization:** Product Landing Pages & Studio Websites (`Rosie Le Studio`, `Easy Ice Cream`), Brand Asset Packaging.
+*   **Data Operations & Financial Accuracy (15+ Yrs):** Advanced Excel & Google Sheets (VLOOKUP, Pivot Tables, Formula Auditing), Ledger Reconciliation, Data Cleaning & Validation.
 
 ---
 
@@ -45,9 +44,11 @@ Senior **AI Content Strategist and Automation Specialist** with extensive profes
 
 ## 🚀 FEATURED PROJECTS & CASE STUDIES
 
-*   **Wellness Nest Shilajit TikTok Campaign:** Formulated 4 core content pillars and 9+ winning angles, automating comment-to-content script generation for US supplement markets.
-*   **Dr. Nova AI Medical Short-Form Generator:** Architected the `sid-dr-nova` skill for 5-scene VEO-3 structured 3D medical animation prompts with bilingual Czech/Vietnamese script adaptation.
-*   **Superpowers & Skill-Creator Integration:** Integrated 14 Senior Engineer Agentic skills into Antigravity workspace and refactored custom skills to Anthropic progressive disclosure standards.
+*   **Amazon KDP Automated Publishing Factory (20+ Books):** Built 10+ specialized KDP Agent Skills (Cookbooks, Murdoku Logic Mysteries, Memory Care, Large-Print Word Search, Scissor Skills, Coloring Books) with automated SVG/HTML-to-PDF layout, spine calculation, and QA verification.
+*   **The Mind Codex (Multi-Volume Ebook & Print Pipeline):** Engineered automated Python/HTML/CSS build and QA pipeline producing print-ready PDFs and DOCX editions across Volume 1 & Volume 2.
+*   **Brand Websites & Social Carousel Systems:** Built and deployed `Rosie Le Studio` (`rosie-le-cookbooks`, `rosie-le-puzzle-landing`), `Easy Ice Cream` web & social suite, and `Tactile Healing Carousel` visual templates.
+*   **GEO/SEO Bilingual Content Skill Graph:** Produced 20+ deep-research EN/VI articles optimized for AI Search citations (ChatGPT, Perplexity, Google AI Overviews).
+*   **Wellness Nest & Dr. Nova Short-Form Video Systems:** Formulated C.A.S.H ad frameworks (100% TikTok Shop/Meta compliant) and 5-scene VEO-3 3D medical animation prompts.
 
 ---
 
